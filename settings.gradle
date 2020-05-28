@@ -1,0 +1,2 @@
+rootProject.name='Image Recognizer'
+include ':app'
